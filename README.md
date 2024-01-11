@@ -3,7 +3,7 @@
 
 This Streamlit application allows users to ask questions about the content of a PDF document and receive relevant answers. The application utilizes natural language processing and question-answering techniques to extract information from the uploaded PDF.
 
-![Application Preview](images/application_preview.png)
+![Application Preview](example.png)
 
 ## Getting Started
 
